@@ -1,5 +1,5 @@
 # Task-Scheduling-for-Cloud-Environment
-This is our minor project, which provides different algorithm for task scheduling
+This is our University's Minor Project, which provides different algorithm for task scheduling
 
 
 # Task scheduling algorithm for cloud computing environment.
