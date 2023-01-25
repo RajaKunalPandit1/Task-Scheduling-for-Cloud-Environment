@@ -6,8 +6,6 @@ This is our minor project, which provides different algorithm for task schedulin
 
 Task scheduling algorithm for cloud computing environment.
 
-
-
      Abstract
 Cloud computing is one of the popular models that gives us flexibility and is on-demand. Scheduling in the cloud is responsible for selection of best suitable resources for task execution, by taking some static and dynamic parameters and restrictions of tasks into consideration. The user perspective of efficient scheduling may be based on parameters like task completion time or task execution cost etc. Task scheduling problem in cloud computing environment is NP-hard problem, which is difficult to obtain exact optimal solution and is suitable for using intelligent optimization algorithms to approximate the optimal solution. This project implements and compares different task scheduling algorithms that addresses these major challenges of task scheduling in the cloud. The selection of resources for execution of tasks is  based on the greedy approach. 
 ACKNOWLEDGEMENT
@@ -52,9 +50,6 @@ Fig 1: Overall Flow of the Project
 
 
 ![image](https://user-images.githubusercontent.com/112755503/214497382-3ffd8590-54de-4941-9554-b53875c9031b.png)
-
-
-
  
  
 Fig 3. Process flo 
@@ -102,44 +97,49 @@ The user chooses from the different “Task Scheduling Algorithms” (MIN-MIN , 
 
 MAIN CLASS :	
 Output		 
-  
+  ![image](https://user-images.githubusercontent.com/112755503/214497523-da85c46d-d26e-4ce6-a34e-be64b7366a77.png)
+
 Fig 4 : Output for main class
 MIN- MIN:
 OUTPUT:
- 
+ ![image](https://user-images.githubusercontent.com/112755503/214497546-3824fb69-0a6c-43c7-b8a1-990083abedb7.png)
+
 Fig 5 : Output for MIN-MIN
- 
+ ![image](https://user-images.githubusercontent.com/112755503/214497571-46f9baf2-61d4-4da3-9dd5-0013eb14303c.png)
+
 Fig 6 : Output for MIN-MIN
 
 
 MAX-MIN: 
 Output:
- 
-Fig 7: Output for MAX-MIN
+ ![image](https://user-images.githubusercontent.com/112755503/214497616-896cfae5-04d4-4f3d-804f-d3a1e5a40d4e.png)
 
+Fig 7: Output for MAX-MIN
+![image](https://user-images.githubusercontent.com/112755503/214497677-899d188b-ae04-49dc-9b59-846d311899e3.png)
  
 Fig 8 : Output for MAX-MIN
 
 
-
-
-
 RASA:
 Output: 
- 
-Fig 9 : Output for RASA
+ ![image](https://user-images.githubusercontent.com/112755503/214497759-0df117bb-e956-47a1-9b3e-a3b3ec4e1c82.png)
 
+Fig 9 : Output for RASA
+![image](https://user-images.githubusercontent.com/112755503/214497810-40258613-0d56-457d-9ebe-be8cba42256e.png)
  
 Fig 10 : Output for RASA
 ENHANCED:
 Output:
- 
+ ![image](https://user-images.githubusercontent.com/112755503/214497891-2a428e69-2fda-46b3-9202-680f3bb60dd0.png)
+
 Fig 11 : Output for ENHANCED
 
 MULTI-LEVEL QUEUE:
 Output:
- 
+ ![image](https://user-images.githubusercontent.com/112755503/214497912-848ab9cd-544c-484a-8da7-0b4f4fe5be4c.png)
+
 Fig 12 : Output for MULTI-LEVEL QUEUE 
+
 8. SWOT Analysis
 
 Strength: The utmost strength of our project is that it helps to reduce the waiting time for the tasks, helps in achieving high system throughput. Helps in load balancing , better utilization of the CPU , memory , resources and many such system resources. In the future, we can develop a new algorithm that minimizes the execution cost and execution time and give better results than the proposed algorithm. Changes can be made in some parameters of the proposed algorithm.
