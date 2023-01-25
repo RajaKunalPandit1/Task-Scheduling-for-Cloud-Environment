@@ -40,17 +40,17 @@ Task scheduling not only improves execution time, cost, response time, flow time
 The project flow (Fig 1) starts from taking the input from the data set file. Then the data set is allocated to different resources in the methods. Each method performs a different algorithm. The result for each type of algorithm is compared and then the result will be represented graphically.
 
 <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497309-be752552-544e-455c-88c7-5fc1dd92de36.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497309-be752552-544e-455c-88c7-5fc1dd92de36.png" alt><br/>
     <em>Overall Flow of the Project</em>
 </p>
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497363-8a081d19-d84c-47ce-950e-0bf164ef1791.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497363-8a081d19-d84c-47ce-950e-0bf164ef1791.png" alt><br/>
     <em>Detailed overall flow of the project</em>
 </p>
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497382-3ffd8590-54de-4941-9554-b53875c9031b.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497382-3ffd8590-54de-4941-9554-b53875c9031b.png" alt><br/>
     <em>Process Flow</em>
 </p>
  
@@ -98,7 +98,7 @@ The user chooses from the different “Task Scheduling Algorithms” (MIN-MIN , 
 ###### MAIN CLASS :	
 Output
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497523-da85c46d-d26e-4ce6-a34e-be64b7366a77.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497523-da85c46d-d26e-4ce6-a34e-be64b7366a77.png" alt><br/>
     <em>Output for Main Class</em>
 </p>
 
@@ -106,12 +106,12 @@ Output
 OUTPUT:
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497546-3824fb69-0a6c-43c7-b8a1-990083abedb7.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497546-3824fb69-0a6c-43c7-b8a1-990083abedb7.png" alt><br/>
     <em> Output for MIN-MIN</em>
 </p>
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497571-46f9baf2-61d4-4da3-9dd5-0013eb14303c.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497571-46f9baf2-61d4-4da3-9dd5-0013eb14303c.png" alt><br/>
     <em> Output for MIN-MIN</em>
 </p>
 
@@ -121,12 +121,12 @@ OUTPUT:
 Output:
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497616-896cfae5-04d4-4f3d-804f-d3a1e5a40d4e.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497616-896cfae5-04d4-4f3d-804f-d3a1e5a40d4e.png" alt><br/>
     <em> Output for MAX-MIN</em>
 </p>
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497677-899d188b-ae04-49dc-9b59-846d311899e3.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497677-899d188b-ae04-49dc-9b59-846d311899e3.png" alt><br/>
     <em> Output for MAX-MIN</em>
 </p>
 
@@ -135,12 +135,12 @@ Output:
 Output: 
 
  <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497759-0df117bb-e956-47a1-9b3e-a3b3ec4e1c82.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497759-0df117bb-e956-47a1-9b3e-a3b3ec4e1c82.png" alt><br/>
     <em> Output for RASA</em>
 </p>
 
 <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497810-40258613-0d56-457d-9ebe-be8cba42256e.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497810-40258613-0d56-457d-9ebe-be8cba42256e.png" alt><br/>
     <em> Output for RASA</em>
 </p>
 
@@ -150,7 +150,7 @@ Output:
 Output:
 
 <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497891-2a428e69-2fda-46b3-9202-680f3bb60dd0.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497891-2a428e69-2fda-46b3-9202-680f3bb60dd0.png" alt><br/>
     <em> Output for ENHANCED</em>
 </p>
 
@@ -159,13 +159,9 @@ MULTI-LEVEL QUEUE:
 Output:
 
 <p>
-    <img src="https://user-images.githubusercontent.com/112755503/214497912-848ab9cd-544c-484a-8da7-0b4f4fe5be4c.png" alt>
+    <img src="https://user-images.githubusercontent.com/112755503/214497912-848ab9cd-544c-484a-8da7-0b4f4fe5be4c.png" alt><br/>
     <em> Output for MULTI-LEVEL QUEUE</em>
 </p>
-
- ![image]()
-
-Fig 12 : Output for MULTI-LEVEL QUEUE 
 
 ## SWOT Analysis
 
